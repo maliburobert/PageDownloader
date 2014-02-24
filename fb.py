@@ -1,3 +1,6 @@
+"""
+Version 1.0.5
+"""
 import random, urllib2, urllib, sys, os, Queue, threading, socket, re, time, uuid
 
 queue = Queue.Queue()
